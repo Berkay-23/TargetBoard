@@ -13,8 +13,7 @@
 <br>
 
 ## Proje Açıklaması
-
-![Proje Görseli](https://github.com/Berkay-23/TargetBoard/assets/64416591/b1cee335-28e5-4421-8c19-ed06899120b1)
+![Hedef Tahtası](https://github.com/Berkay-23/TargetBoard/assets/64416591/90ba7ca7-48a5-416e-8d37-2894e08c6de5)
 
 <br>
 
@@ -54,16 +53,6 @@ Yukarıdaki linkten APK dosyasını ANDROID cihazınıza yükleyiniz.
 ### Bölüm 5
 ![episode 5](https://github.com/Berkay-23/TargetBoard/assets/64416591/cc713d12-95be-4afe-9a56-a84b25b8b3b4)
 ### Bölüm 6
-![episode 6](https://github.com/Berkay-23/TargetBoard/assets/64416591/bdd51b75-5d34-4aa0-adc3-d76b66062ef3)
+![episode 6](https://github.com/Berkay-23/TargetBoard/assets/64416591/5cff99c7-e90b-4921-b3cb-775686caf3c4)
 ### Son
 ![finish](https://github.com/Berkay-23/TargetBoard/assets/64416591/f0b606fc-5eec-48a9-ad2e-b70b13b231f3)
-
-
-
-
-
-
-
-
-
-
