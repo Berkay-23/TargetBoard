@@ -38,22 +38,32 @@ Yukarıdaki linkten APK dosyasını ANDROID cihazınıza yükleyiniz.
 
 ## Oyundan Görseller:
 ### Ana Sayfa
-![home page](https://github.com/Berkay-23/TargetBoard/assets/64416591/6a3ae558-92a2-4101-9e80-0fe6608129bb)
+![home page](https://github.com/Berkay-23/TargetBoard/assets/64416591/dffe3550-f542-4f29-bf89-e2893e2a9dd4)
 ### Ses Ayarları
-![audio settings](https://github.com/Berkay-23/TargetBoard/assets/64416591/4838b26d-5b87-47d1-b5ae-6d456c4d1422)
+![audio settings](https://github.com/Berkay-23/TargetBoard/assets/64416591/ac13dfea-e870-4f24-913c-4528d6465966)
 ### Bölümler Sayfası
-![episodes](https://github.com/Berkay-23/TargetBoard/assets/64416591/cadf94ad-8a3d-4e51-bd1f-134817241473)
+![episodes](https://github.com/Berkay-23/TargetBoard/assets/64416591/fde16c5d-d6b6-431f-8f6d-6876c09df2b9)
 ### Bölüm 1
-![episode 1](https://github.com/Berkay-23/TargetBoard/assets/64416591/cee3df34-bade-467b-b042-8cb1240b7d66)
+![episode 1](https://github.com/Berkay-23/TargetBoard/assets/64416591/96fc10c3-2668-4861-8367-d2d28a6a7d79)
 ### Bölüm 2
-![episode 2](https://github.com/Berkay-23/TargetBoard/assets/64416591/98ddcd01-79a2-4bda-bb70-f9f48c5765da)
+![episode 2](https://github.com/Berkay-23/TargetBoard/assets/64416591/5d0f39d4-51ad-442c-a392-f2c0dfb0ff97)
 ### Bölüm 3
-![episode 3](https://github.com/Berkay-23/TargetBoard/assets/64416591/f6e579b0-a7ea-4458-9964-976e57e47c48)
+![episode 3](https://github.com/Berkay-23/TargetBoard/assets/64416591/74bbdabe-5312-4d7e-9920-e2f8babd369e)
 ### Bölüm 4
-![episode 4](https://github.com/Berkay-23/TargetBoard/assets/64416591/99fa9111-527f-48d2-a8f2-1aa3f96bffe2)
+![episode 4](https://github.com/Berkay-23/TargetBoard/assets/64416591/039fa486-fd37-42bc-aa2c-987b7a2f5f27)
 ### Bölüm 5
-![episode 5](https://github.com/Berkay-23/TargetBoard/assets/64416591/207260a0-7e24-48ea-9c37-40953febc508)
+![episode 5](https://github.com/Berkay-23/TargetBoard/assets/64416591/cc713d12-95be-4afe-9a56-a84b25b8b3b4)
 ### Bölüm 6
-![episode 6](https://github.com/Berkay-23/TargetBoard/assets/64416591/cf752dff-7ce0-455e-9ab9-7361ec2968ee)
+![episode 6](https://github.com/Berkay-23/TargetBoard/assets/64416591/bdd51b75-5d34-4aa0-adc3-d76b66062ef3)
 ### Son
-![finish](https://github.com/Berkay-23/TargetBoard/assets/64416591/1c9d996d-1f29-400c-b13e-6906d535c296)
+![finish](https://github.com/Berkay-23/TargetBoard/assets/64416591/f0b606fc-5eec-48a9-ad2e-b70b13b231f3)
+
+
+
+
+
+
+
+
+
+
